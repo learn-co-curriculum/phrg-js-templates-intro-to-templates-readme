@@ -218,3 +218,4 @@ We've walked through creating a very basic template for a blog comments section,
 - [MDN: createElement](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/javascript-hand-written-templates'>Javascript Hand Written Templates</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG JavaScript Hand-Written Templates</p>
