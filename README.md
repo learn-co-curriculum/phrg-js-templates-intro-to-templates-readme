@@ -211,6 +211,10 @@ Let's reload `index.html` and try out our new comment form. If we did everything
 
 We've walked through creating a very basic template for a blog comments section, starting with the problematic and unsustainable practice of editing HTML directly and ending with a nicely modular way of collecting comment data and displaying it on our blog post in a predictable, repeatable way.
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-templates-intro-to-templates-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-js-templates-intro-to-templates-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
+
 ## Resources
 
 - [MDN: innerHTML](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML)
